@@ -18,6 +18,5 @@ module Mytestingapp
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
-    config.hosts << "ec2-3-109-201-73.ap-south-1.compute.amazonaws.com"
   end
 end
